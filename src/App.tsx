@@ -95,6 +95,7 @@ function App() {
         <div className="text-center space-y-4">
           <Loader className="w-12 h-12 text-red-500 animate-spin mx-auto" />
           <p className="text-red-600 text-xl font-semibold animate-pulse">Učitavanje specijalnog trenutka...</p>
+          <p className="text-red-400 text-lg italic mt-8 animate-fade-in">Created by Timur</p>
         </div>
       </div>
     );
